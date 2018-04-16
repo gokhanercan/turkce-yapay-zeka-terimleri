@@ -79,6 +79,8 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+ÖNERİ: `ince ayar`
+
 ## framework
 - [x] TÜBA
 - [x] TDK
@@ -108,6 +110,8 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+ÖNERİ: `ön parametre, dış parametre`
+
 ## landmark detection 
 - [x] TÜBA
 - [ ] TDK
@@ -135,6 +139,8 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 ## semantics
 - [ ] TÜBA
 - [ ] TDK
+
+ÖNERİ: `anlambilim`
 
 ## squashing function
 - [ ] TÜBA
